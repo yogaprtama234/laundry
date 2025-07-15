@@ -65,8 +65,6 @@ const Navbar = ({ setCurrentPage }) => {
     <nav className="bg-white shadow-lg py-4 px-6 md:px-12 fixed w-full z-50 rounded-b-xl">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center cursor-pointer" onClick={() => setCurrentPage('home')}>
-          {/* Simple MDL Logo */}
-          <span className="text-indigo-600 text-4xl font-extrabold font-['Playfair_Display'] mr-2">MDL</span>
           <div className="text-2xl font-bold text-gray-800">
             Mama Dhea Laundry
           </div>
