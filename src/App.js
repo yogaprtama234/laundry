@@ -114,7 +114,7 @@ const MobileNavItem = ({ title, onClick }) => (
 // Home Component
 const Home = ({ services, testimonials, setCurrentPage }) => {
   // Placeholder image URL for laundry background
-  const laundryBgUrl = "https://files.catbox.moe/g0tkwk.jpeg"; // You can replace this with a real image URL
+  const laundryBgUrl = "https://files.catbox.moe/vtsehp.jpg"; // You can replace this with a real image URL
 
   return (
     <main className="pt-24"> {/* Add padding top to account for fixed navbar */}
