@@ -461,7 +461,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} Mama Dhea Laundry. All rights reserved.
+          &copy; {new Date().getFullYear()} Develop By Yogaaaaprtm_. All rights reserved.
         </div>
       </div>
     </footer>
